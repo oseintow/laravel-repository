@@ -14,5 +14,9 @@
     },
     "psr-4": {
         "Oseintow\\": "src/"
-    }
+    },
+    "config": {
+        "preferred-install": "dist"
+    },
+    "minimum-stability": "stable"
 }
