@@ -1,0 +1,18 @@
+{
+    "name": "oseintow/laravel-repository",
+    "description": "Awesome laravel eloquent repository",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "michael osei ntow",
+            "email": "oseintow@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    },
+    "psr-4": {
+        "Oseintow\\": "src/"
+    }
+}
