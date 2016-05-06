@@ -14,8 +14,10 @@
     "require-dev": {
         "phpunit/phpunit": "4.0.*"
     },
-    "psr-4": {
-        "Oseintow\\": "src/"
+    "autoload": {
+        "psr-4": {
+            "Oseintow\\": "src/"
+        }
     },
     "config": {
         "preferred-install": "dist"
